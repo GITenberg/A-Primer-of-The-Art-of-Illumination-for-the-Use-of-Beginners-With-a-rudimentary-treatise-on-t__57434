@@ -1,5 +1,8 @@
 _repo: A-Primer-of-The-Art-of-Illumination-for-the-Use-of-Beginners-With-a-rudimentary-treatise-on-t__57434
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57434-h/images/cover.jpg
 creator:
   author:
     agent_name: Delamotte, F. (Freeman)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '25846'
     url: http://www.gutenberg.org/2009/agents/25846
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57434#A-Primer-of-The-Art-of-Illumination-for-the-Use-of-Beginners-With-a-rudimentary-treatise-on-t_
 gutenberg_issued: '2018-07-02'
 gutenberg_type: Text
 identifiers:
